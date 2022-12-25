@@ -993,3 +993,505 @@ http://alltvpremiere.online:8000/saltv007/621378/3381
 http://alltvpremiere.online:8000/saltv007/621378/4882
 #EXTINF:-1,|LAT| VIDA TELEVISION [HD]
 http://alltvpremiere.online:8000/saltv007/621378/5415
+#EXTINF:-1, n2086.securepoint.io
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56385
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : A&E" tvg-logo="http://hostengine.live:25461/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="LATINO TV",LATINO : A&E
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56380
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : ADN 40" tvg-logo="http://hostengine.live:25461/images/2fc8d66759838327f1d09262e9e37e38.png" group-title="LATINO TV",LATINO : ADN 40
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56381
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : AMC" tvg-logo="http://hostengine.live:25461/images/3654b34017508a963ccce2426e91e4cd.png" group-title="LATINO TV",LATINO : AMC
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56382
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : AMERICA TV" tvg-logo="http://hostengine.live:25461/images/708dfd38ea21780784fb4dd7c9b14f7b.png" group-title="LATINO TV",LATINO : AMERICA TV
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56383
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : ANIMAL PLANET" tvg-logo="http://hostengine.live:25461/images/728379233ae6af8a0f9a9a236cae3715.png" group-title="LATINO TV",LATINO : ANIMAL PLANET
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56384
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : ANTENA 3" tvg-logo="http://hostengine.live:25461/images/00fc41df090b9ba5456b7c46ac771fc4.png" group-title="LATINO TV",LATINO : ANTENA 3
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56385
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : ASPIRE" tvg-logo="http://hostengine.live:25461/images/ad54c4f7132a7cf50499600148bcc7e5.png" group-title="LATINO TV",LATINO : ASPIRE
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56386
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : AXN" tvg-logo="http://hostengine.live:25461/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="LATINO TV",LATINO : AXN
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56387
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : AZ CORAZON" tvg-logo="http://hostengine.live:25461/images/22c136e888766a57344f2a245e2fd4df.png" group-title="LATINO TV",LATINO : AZ CORAZON
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56389
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : AZTECA" tvg-logo="http://hostengine.live:25461/images/09d5dfc7e1355082b33386f667622100.png" group-title="LATINO TV",LATINO : AZTECA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56390
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : AZTECA 7" tvg-logo="http://hostengine.live:25461/images/97f276a40d77b2826024cbb57ca13130.jpg" group-title="LATINO TV",LATINO : AZTECA 7
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/128932
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : AZTECA UNO" tvg-logo="http://hostengine.live:25461/images/f9b9a7fbb24bb0a44717dc43d9269298.png" group-title="LATINO TV",LATINO : AZTECA UNO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56391
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : BABY TV" tvg-logo="http://hostengine.live:25461/images/39a30d38a8cd21829f2929b02a05717e.png" group-title="LATINO TV",LATINO : BABY TV
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56392
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : BANDAMAX" tvg-logo="http://hostengine.live:25461/images/827080d7b7902399c2a6b9907fbd6658.png" group-title="LATINO TV",LATINO : BANDAMAX
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56393
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : BLOOMBERG" tvg-logo="http://hostengine.live:25461/images/1b87225c734b0a934e9ce33ffc53c9ce.png" group-title="LATINO TV",LATINO : BLOOMBERG
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56394
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : BOOMERANG" tvg-logo="http://hostengine.live:25461/images/f91022004ce9aab1397c498ec1ee684b.png" group-title="LATINO TV",LATINO : BOOMERANG
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56395
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : CANAL 22 INTERNACIONAL" tvg-logo="http://hostengine.live:25461/images/dce19c792ef18ea949585eb481d57186.png" group-title="LATINO TV",LATINO : CANAL 22 INTERNACIONAL
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56396
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : CANAL DE LAS ESTRELLAS" tvg-logo="http://hostengine.live:25461/images/3dba6489db3b822a41b9f6e46f2e3cf5.png" group-title="LATINO TV",LATINO : CANAL DE LAS ESTRELLAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56398
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : CARACOL TV" tvg-logo="http://hostengine.live:25461/images/1c514061bdbb324f1b66f348664cb98f.png" group-title="LATINO TV",LATINO : CARACOL TV
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56399
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : CARTOON NETWORK" tvg-logo="http://hostengine.live:25461/images/87dfc97a7654b4b7ad9f04767361eca9.png" group-title="LATINO TV",LATINO : CARTOON NETWORK
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56400
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : CENTRO AMERICA TV" tvg-logo="http://hostengine.live:25461/images/0439cb9ac7bab898c43feb2dee71909c.png" group-title="LATINO TV",LATINO : CENTRO AMERICA TV
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56401
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : CGTN" tvg-logo="http://hostengine.live:25461/images/cab59df53a16f4b85b2b235673937fa3.png" group-title="LATINO TV",LATINO : CGTN
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56402
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : CINE ESTELAR" tvg-logo="http://hostengine.live:25461/images/af2bf8820b41c08245c2d144dfab497b.png" group-title="LATINO TV",LATINO : CINE ESTELAR
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56403
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : CINE MEXICANO" tvg-logo="http://hostengine.live:25461/images/5ea26d044e968a609c7f3197d5c6131d.png" group-title="LATINO TV",LATINO : CINE MEXICANO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56404
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : CINE NOSTALGIA" tvg-logo="http://hostengine.live:25461/images/0929cca7a0060e46f0ac4878740703aa.png" group-title="LATINO TV",LATINO : CINE NOSTALGIA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56405
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : CINE SONY" tvg-logo="http://hostengine.live:25461/images/38b086e96a31a3c17f9f4ad0f40a78ab.png" group-title="LATINO TV",LATINO : CINE SONY
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56406
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : CINEMAX" tvg-logo="http://hostengine.live:25461/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="LATINO TV",LATINO : CINEMAX
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56407
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : CNN EN ESPANOL" tvg-logo="http://hostengine.live:25461/images/ff7a4157153a8077212c8757fd39b8bd.png" group-title="LATINO TV",LATINO : CNN EN ESPANOL
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56408
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : CNN INTERNACIONAL" tvg-logo="http://hostengine.live:25461/images/ff7a4157153a8077212c8757fd39b8bd.png" group-title="LATINO TV",LATINO : CNN INTERNACIONAL
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56409
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : COMEDY CENTRAL" tvg-logo="http://hostengine.live:25461/images/f7029e67f22d8a43ab8d1b3deb896249.png" group-title="LATINO TV",LATINO : COMEDY CENTRAL
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56410
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DE PELICULA" tvg-logo="http://hostengine.live:25461/images/097812887a35e2b737bfc8d07a6d7fb4.png" group-title="LATINO TV",LATINO : DE PELICULA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56411
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DE PELICULA CLASICO" tvg-logo="http://hostengine.live:25461/images/097812887a35e2b737bfc8d07a6d7fb4.png" group-title="LATINO TV",LATINO : DE PELICULA CLASICO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56412
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DESTINATION AMERICA" tvg-logo="http://hostengine.live:25461/images/64cd10671a200a5d84493abc346bbd91.png" group-title="LATINO TV",LATINO : DESTINATION AMERICA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56413
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DIGITAL QUINCE" tvg-logo="http://hostengine.live:25461/images/225feaf56d47a318b12217639d585886.png" group-title="LATINO TV",LATINO : DIGITAL QUINCE
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56414
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DIRECTTV SPORT" tvg-logo="http://hostengine.live:25461/images/3e0190603c159c4f6845322d5c2d6be9.png" group-title="LATINO TV",LATINO : DIRECTTV SPORT
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56415
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DIRECTTV SPORT 1" tvg-logo="http://hostengine.live:25461/images/3e0190603c159c4f6845322d5c2d6be9.png" group-title="LATINO TV",LATINO : DIRECTTV SPORT 1
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56416
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DIRECTTV SPORT 2" tvg-logo="http://n2086.securepoint.io:25461/images/3e0190603c159c4f6845322d5c2d6be9.png" group-title="LATINO TV",LATINO : DIRECTTV SPORT 2
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56417
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY CHANNEL" tvg-logo="http://hostengine.live:25461/images/e3790b11b867ec7bc12ea6c89fb3a571.png" group-title="LATINO TV",LATINO : DISCOVERY CHANNEL
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56418
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY EN ESPANOL" tvg-logo="http://hostengine.live:25461/images/c18474c576ad80a087fd27c541e491e2.png" group-title="LATINO TV",LATINO : DISCOVERY EN ESPANOL
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56419
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY FAMILIA" tvg-logo="http://hostengine.live:25461/images/93e75712a34dd337ec1712d6836ea766.png" group-title="LATINO TV",LATINO : DISCOVERY FAMILIA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56420
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY HOME & HEALTH" tvg-logo="http://hostengine.live:25461/images/442ed4318276ac20a4201202a6a12f7d.png" group-title="LATINO TV",LATINO : DISCOVERY HOME & HEALTH
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56421
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY ID" tvg-logo="http://hostengine.live:25461/images/efc67e36f06a3060c221e7ac26c3be67.png" group-title="LATINO TV",LATINO : DISCOVERY ID
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56422
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY KIDS" tvg-logo="http://hostengine.live:25461/images/81207635f3669a9f4ac514d868af4eaf.png" group-title="LATINO TV",LATINO : DISCOVERY KIDS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56423
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY SCIENCE" tvg-logo="http://hostengine.live:25461/images/8eb8de396990449443bc96990430b613.png" group-title="LATINO TV",LATINO : DISCOVERY SCIENCE
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56424
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY THEATER" tvg-logo="http://hostengine.live:25461/images/94d0a2cf1147dec4bbd0adac06ee9bc1.png" group-title="LATINO TV",LATINO : DISCOVERY THEATER
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56425
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY TURBO" tvg-logo="http://hostengine.live:25461/images/c19c396b5470fcc0294e9834431e6150.png" group-title="LATINO TV",LATINO : DISCOVERY TURBO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56426
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISCOVERY WORLD" tvg-logo="http://hostengine.live:25461/images/b7ad18b490d90359a1904b1270102139.png" group-title="LATINO TV",LATINO : DISCOVERY WORLD
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56427
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISNEY CHANNEL" tvg-logo="http://hostengine.live:25461/images/f240a4a08ef4d49a9b643168779d8491.png" group-title="LATINO TV",LATINO : DISNEY CHANNEL
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56428
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISNEY JUNIOR" tvg-logo="http://hostengine.live:25461/images/31ca4011a838ae589bedbcdc9891732f.png" group-title="LATINO TV",LATINO : DISNEY JUNIOR
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56429
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISNEY XD" tvg-logo="http://hostengine.live:25461/images/a83dec3009a0b0ba1e484864eddbd654.png" group-title="LATINO TV",LATINO : DISNEY XD
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56430
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : DISTRITO COMEDIA" tvg-logo="http://hostengine.live:25461/images/15b50bc3d0e792111bed790fc694a175.png" group-title="LATINO TV",LATINO : DISTRITO COMEDIA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56431
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : E!" tvg-logo="http://hostengine.live:25461/images/a6ff6e3f241258033c6559e023e0cb50.png" group-title="LATINO TV",LATINO : E!
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56432
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : ECUADOR TV" tvg-logo="http://hostengine.live:25461/images/b4470dce86a0ef21b498a34ad69af4d7.png" group-title="LATINO TV",LATINO : ECUADOR TV
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56433
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : ECUAVISA INTERNACIONAL" tvg-logo="http://hostengine.live:25461/images/8f1ede715ab0f65ad05fc48d634d12ff.png" group-title="LATINO TV",LATINO : ECUAVISA INTERNACIONAL
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56434
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : EL GOURMET" tvg-logo="http://hostengine.live:25461/images/32f26dffac59e2fb5ef330ca12734cc3.png" group-title="LATINO TV",LATINO : EL GOURMET
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56435
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : ENLACE" tvg-logo="http://hostengine.live:25461/images/55f978bc8f1f756f1d05c00ce8704356.png" group-title="LATINO TV",LATINO : ENLACE
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56436
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : ESPN" tvg-logo="http://hostengine.live:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="LATINO TV",LATINO : ESPN
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56437
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : ESPN 2" tvg-logo="http://hostengine.live:25461/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="LATINO TV",LATINO : ESPN 2
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56438
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : ESPN 3" tvg-logo="http://hostengine.live:25461/images/cdd6ea69033dc3927861c36bb82703b7.png" group-title="LATINO TV",LATINO : ESPN 3
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56439
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : ESPN DEPORTES" tvg-logo="http://hostengine.live:25461/images/490e5d3c2b146b79bde3ae3019771f9d.png" group-title="LATINO TV",LATINO : ESPN DEPORTES
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56440
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : ESTRELLA TV" tvg-logo="http://hostengine.live:25461/images/9875e81dc92134ab9e84907fff85d774.png" group-title="LATINO TV",LATINO : ESTRELLA TV
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56441
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : FM" tvg-logo="http://hostengine.live:25461/images/b7a86eb986b7ed0f7e24199eb1e65ffb.png" group-title="LATINO TV",LATINO : FM
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56442
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOOD NETWORK" tvg-logo="http://hostengine.live:25461/images/110eae003165e6c2a9b21112e100b6e1.png" group-title="LATINO TV",LATINO : FOOD NETWORK
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56443
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : FORO TV" tvg-logo="http://hostengine.live:25461/images/617063eafd079ab27316d80c80767850.png" group-title="LATINO TV",LATINO : FORO TV
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56444
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX" tvg-logo="http://hostengine.live:25461/images/7d74534aa41092eeca14fcb5f04428bc.png" group-title="LATINO TV",LATINO : FOX
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56445
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX ACTION" tvg-logo="http://hostengine.live:25461/images/3cceadd71c24f329ed8ed3cdced04ad8.png" group-title="LATINO TV",LATINO : FOX ACTION
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56446
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX CINEMA" tvg-logo="http://hostengine.live:25461/images/878cbf54d4055635804c4fe2c133d344.png" group-title="LATINO TV",LATINO : FOX CINEMA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56447
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX COMEDY" tvg-logo="http://hostengine.live:25461/images/da63f7024e2a74aeccf28811502a4261.png" group-title="LATINO TV",LATINO : FOX COMEDY
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56449
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX DEPORTES" tvg-logo="http://n2086.securepoint.io:25461/images/5011bf9095c296a91b049a717e0bfcbf.png" group-title="LATINO TV",LATINO : FOX DEPORTES
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56450
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX FAMILY" tvg-logo="http://hostengine.live:25461/images/606757e5cacc89c8fbdffefe653ea2c3.png" group-title="LATINO TV",LATINO : FOX FAMILY
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56451
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX MOVIES" tvg-logo="http://hostengine.live:25461/images/7400792be934c83cd6e3b44aee766901.png" group-title="LATINO TV",LATINO : FOX MOVIES
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56452
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX SERIES" tvg-logo="http://hostengine.live:25461/images/7400792be934c83cd6e3b44aee766901.png" group-title="LATINO TV",LATINO : FOX SERIES
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56453
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX SPORTS 1" tvg-logo="http://hostengine.live:25461/images/4f3da988474c17e1d831e99165fb85f6.png" group-title="LATINO TV",LATINO : FOX SPORTS 1
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56454
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX SPORTS 2" tvg-logo="http://hostengine.live:25461/images/4f3da988474c17e1d831e99165fb85f6.png" group-title="LATINO TV",LATINO : FOX SPORTS 2
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56455
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX SPORTS 3" tvg-logo="http://hostengine.live:25461/images/4f3da988474c17e1d831e99165fb85f6.png" group-title="LATINO TV",LATINO : FOX SPORTS 3
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56456
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : FOX SPORTS PREMIUM" tvg-logo="http://hostengine.live:25461/images/4f3da988474c17e1d831e99165fb85f6.png" group-title="LATINO TV",LATINO : FOX SPORTS PREMIUM
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56457
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : FX" tvg-logo="http://hostengine.live:25461/images/bdf4721cef747b0d12ae91dc50e6ea37.png" group-title="LATINO TV",LATINO : FX
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56458
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : FXM" tvg-logo="http://hostengine.live:25461/images/572c5080291f3af4654874703182509f.png" group-title="LATINO TV",LATINO : FXM
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56459
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : GALAVISION" tvg-logo="http://hostengine.live:25461/images/b20c6e8271fd48191b850c341dc3c3fa.png" group-title="LATINO TV",LATINO : GALAVISION
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56460
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : GARAGE TV" tvg-logo="http://hostengine.live:25461/images/d65c15714f4d88350d1ed8563b26d0ed.png" group-title="LATINO TV",LATINO : GARAGE TV
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56461
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : GLITZ" tvg-logo="http://hostengine.live:25461/images/67d4face78a876b1551249fcfc387077.png" group-title="LATINO TV",LATINO : GLITZ
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56462
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : GOL TV" tvg-logo="http://hostengine.live:25461/images/a2b4b03dc625db35b1f753a70d9cc911.png" group-title="LATINO TV",LATINO : GOL TV
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56463
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : GOLDEN" tvg-logo="http://hostengine.live:25461/images/2149bad6769a9d8fadb5fa449e5ac906.png" group-title="LATINO TV",LATINO : GOLDEN
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56464
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : GOLDEN EDGE" tvg-logo="http://hostengine.live:25461/images/2149bad6769a9d8fadb5fa449e5ac906.png" group-title="LATINO TV",LATINO : GOLDEN EDGE
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56465
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : GSN" tvg-logo="http://hostengine.live:25461/images/5c2e1c41a0ff25ae4049a685941134ea.png" group-title="LATINO TV",LATINO : GSN
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56466
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : GUATEVISION" tvg-logo="http://hostengine.live:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="LATINO TV",LATINO : GUATEVISION
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56467
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : HBO" tvg-logo="http://hostengine.live:25461/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="LATINO TV",LATINO : HBO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56468
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : HBO 2" tvg-logo="http://hostengine.live:25461/images/a7f9c898c812805f26c4ea1e490201da.png" group-title="LATINO TV",LATINO : HBO 2
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56469
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : HBO FAMILY" tvg-logo="http://hostengine.live:25461/images/c63f52bb327351cfe58cfc09a94a9004.png" group-title="LATINO TV",LATINO : HBO FAMILY
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56470
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : HBO LATINO" tvg-logo="http://hostengine.live:25461/images/ff7cfaeb9866b5ec1cd461f7a689b5a4.png" group-title="LATINO TV",LATINO : HBO LATINO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56471
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : HBO SIGNATURE" tvg-logo="http://hostengine.live:25461/images/917bd3488c12edecbc325ddd861fd442.png" group-title="LATINO TV",LATINO : HBO SIGNATURE
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56473
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : HISTORY" tvg-logo="http://hostengine.live:25461/images/3cd15f8f2940aff879df34df4e5c2cd1.png" group-title="LATINO TV",LATINO : HISTORY
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56474
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : HISTORY 2" tvg-logo="http://hostengine.live:25461/images/870aa7be5851989282aa84bc08179cb6.png" group-title="LATINO TV",LATINO : HISTORY 2
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56475
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : HISTORY EN ESPANOL" tvg-logo="http://hostengine.live:25461/images/20f75e4171638f09269b7aab6191946b.png" group-title="LATINO TV",LATINO : HISTORY EN ESPANOL
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56476
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : HITN" tvg-logo="http://hostengine.live:25461/images/431f4398a9d9ccb1d59f802c420ed394.png" group-title="LATINO TV",LATINO : HITN
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56477
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : HLN" tvg-logo="http://hostengine.live:25461/images/bf81708ff203c6d0189a52ad6c471e65.png" group-title="LATINO TV",LATINO : HLN
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56478
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : HOLA TV" tvg-logo="http://hostengine.live:25461/images/b77a17e7782ee4cff2ef31935e2d0d2b.png" group-title="LATINO TV",LATINO : HOLA TV
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56479
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : LAS ESTRELLAS" tvg-logo="http://hostengine.live:25461/images/8d7a92fefb58e496cc85ed8051b92b6c.png" group-title="LATINO TV",LATINO : LAS ESTRELLAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56480
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : LIFETIME" tvg-logo="http://hostengine.live:25461/images/4b0306da67700794086722363df4e655.png" group-title="LATINO TV",LATINO : LIFETIME
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56481
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : MAS CHIC" tvg-logo="http://hostengine.live:25461/images/0aad67741062d8f182f5bee20c37e75d.png" group-title="LATINO TV",LATINO : MAS CHIC
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56482
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : MAX PRIME" tvg-logo="http://hostengine.live:25461/images/aaf0bf033ca7ff69a0d153d3d248584c.png" group-title="LATINO TV",LATINO : MAX PRIME
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56483
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : MAX UP" tvg-logo="http://hostengine.live:25461/images/6755a18bb40872f19d8a046a11fbd34c.png" group-title="LATINO TV",LATINO : MAX UP
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56484
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : MEGATV PR" tvg-logo="" group-title="LATINO TV",LATINO : MEGATV PR
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/193925
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : MILENIO TV" tvg-logo="http://hostengine.live:25461/images/a53f718d20371f1c5ecfecd62f801a58.png" group-title="LATINO TV",LATINO : MILENIO TV
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56485
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : MOVIEPLEX" tvg-logo="http://hostengine.live:25461/images/529566b64af64a77e7b4f37ee68ec524.png" group-title="LATINO TV",LATINO : MOVIEPLEX
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56487
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : MULTIMEDIOS" tvg-logo="http://hostengine.live:25461/images/d5672d833508688d0c2a35d9c1fa35e3.png" group-title="LATINO TV",LATINO : MULTIMEDIOS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56489
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : NAT GEO" tvg-logo="http://hostengine.live:25461/images/72ff2fd91d37dc1bb59d28a56383a5bd.png" group-title="LATINO TV",LATINO : NAT GEO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56490
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : NAT GEO MUNDO" tvg-logo="http://hostengine.live:25461/images/b66574aed4f2e1f1c47dd59da5a0773f.png" group-title="LATINO TV",LATINO : NAT GEO MUNDO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56491
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : NAT GEO WILD" tvg-logo="http://hostengine.live:25461/images/fc0e002967e7b2f0bf1e4417eb7b11e5.png" group-title="LATINO TV",LATINO : NAT GEO WILD
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56492
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : NBC UNIVERSO" tvg-logo="http://hostengine.live:25461/images/9ede88fdc1d63ffe70ef33b41284b5f1.png" group-title="LATINO TV",LATINO : NBC UNIVERSO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56493
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : NEXT TV" tvg-logo="http://hostengine.live:25461/images/d02a42d9cb3dec9320e5f550278911c7.png" group-title="LATINO TV",LATINO : NEXT TV
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56494
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : NICK 2" tvg-logo="http://hostengine.live:25461/images/d08bde0ff5dfd02be32eeb0cb2a3fd39.png" group-title="LATINO TV",LATINO : NICK 2
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56495
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : NICK JR" tvg-logo="http://hostengine.live:25461/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="LATINO TV",LATINO : NICK JR
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56496
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : NICK TOONS" tvg-logo="http://hostengine.live:25461/images/7c5a9a9b092e065b4df87d3943593685.png" group-title="LATINO TV",LATINO : NICK TOONS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56497
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : NICKELODEON" tvg-logo="http://hostengine.live:25461/images/f19b88e6cb8cb067565bb3880b2fb3e1.png" group-title="LATINO TV",LATINO : NICKELODEON
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56498
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : NTN24" tvg-logo="https://www.wilsoncenter.org/sites/default/files/media/images/misc/NTN24" group-title="LATINO TV",LATINO : NTN24
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56500
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : NUESTRA TELE" tvg-logo="http://hostengine.live:25461/images/38623dd3faf0d62e154eb708dbb26cb9.png" group-title="LATINO TV",LATINO : NUESTRA TELE
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56501
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : PARAMOUNT CHANNEL" tvg-logo="http://hostengine.live:25461/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="LATINO TV",LATINO : PARAMOUNT CHANNEL
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56503
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : PASIONES" tvg-logo="http://hostengine.live:25461/images/5b67087832d37aaa02dcacce57d7d271.png" group-title="LATINO TV",LATINO : PASIONES
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56504
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : PERU MAGICO" tvg-logo="http://hostengine.live:25461/images/ea6626ca0344edfc9a18e3d420c99f41.png" group-title="LATINO TV",LATINO : PERU MAGICO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56505
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : RITMOSON" tvg-logo="http://hostengine.live:25461/images/766ede2fabca9bd95c4cca59a5979a57.png" group-title="LATINO TV",LATINO : RITMOSON
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56508
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : RTV 7" tvg-logo="http://hostengine.live:25461/images/7354a123b6f261fc668092bad1e94291.png" group-title="LATINO TV",LATINO : RTV 7
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56509
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : SHOWTIME" tvg-logo="http://hostengine.live:25461/images/02a55f6b0b75a11ad1dedf9f8b4d9b4f.png" group-title="LATINO TV",LATINO : SHOWTIME
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56510
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : SHOWTIME BEYOND" tvg-logo="http://hostengine.live:25461/images/a544e92784d70b17e234bf3bf72d2608.png" group-title="LATINO TV",LATINO : SHOWTIME BEYOND
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56511
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : SHOWTIME EAST" tvg-logo="http://hostengine.live:25461/images/02a55f6b0b75a11ad1dedf9f8b4d9b4f.png" group-title="LATINO TV",LATINO : SHOWTIME EAST
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56512
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : SHOWTIME WEST" tvg-logo="http://hostengine.live:25461/images/02a55f6b0b75a11ad1dedf9f8b4d9b4f.png" group-title="LATINO TV",LATINO : SHOWTIME WEST
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56513
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : SONY CHANNEL" tvg-logo="http://hostengine.live:25461/images/43461e967666859a2bbb7da4487897ea.png" group-title="LATINO TV",LATINO : SONY CHANNEL
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56514
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : SPACE" tvg-logo="http://hostengine.live:25461/images/69579d049ee01159a5126500e467c31b.png" group-title="LATINO TV",LATINO : SPACE
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56515
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ" tvg-logo="http://hostengine.live:25461/images/94fd8a5ae8faa54a23a62d109d7e2765.png" group-title="LATINO TV",LATINO : STARZ
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56516
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ COMEDY" tvg-logo="http://hostengine.live:25461/images/84147f1bf37edeaadfaead1750e66319.png" group-title="LATINO TV",LATINO : STARZ COMEDY
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56517
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ EAST" tvg-logo="http://hostengine.live:25461/images/dbe2c3e7c02b5f3ca2d9e739d80e826c.png" group-title="LATINO TV",LATINO : STARZ EAST
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56518
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ ENCORE" tvg-logo="http://hostengine.live:25461/images/95f922ba53be4e6b6538e44d77a1041c.png" group-title="LATINO TV",LATINO : STARZ ENCORE
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56519
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ ENCORE ACTION" tvg-logo="http://hostengine.live:25461/images/d7670105e6d8b0bd34c9e52fbbab3158.png" group-title="LATINO TV",LATINO : STARZ ENCORE ACTION
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56520
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ ENCORE CLASSIC" tvg-logo="http://hostengine.live:25461/images/e539e7281ee1530c1c644776f0ed1671.png" group-title="LATINO TV",LATINO : STARZ ENCORE CLASSIC
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56521
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ ENCORE ESPAÑOL" tvg-logo="http://hostengine.live:25461/images/0bfa5b9e3f029258480172c42229d114.png" group-title="LATINO TV",LATINO : STARZ ENCORE ESPAÑOL
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56522
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ ENCORE FAMILY" tvg-logo="http://hostengine.live:25461/images/9d22f000b3a31fcb98d8e4d54b4f7950.png" group-title="LATINO TV",LATINO : STARZ ENCORE FAMILY
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56523
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ ENCORE SUSPENSE" tvg-logo="http://hostengine.live:25461/images/811524595fcd0e4a9b991d8f29cbafdc.png" group-title="LATINO TV",LATINO : STARZ ENCORE SUSPENSE
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56524
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ ENCORE WESTERN" tvg-logo="http://hostengine.live:25461/images/7ea703448541d8d51253e6051d1f7aab.png" group-title="LATINO TV",LATINO : STARZ ENCORE WESTERN
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56525
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : STARZ WEST" tvg-logo="http://hostengine.live:25461/images/1748d8b34eb1824b6a0e7eb7c32fbed9.png" group-title="LATINO TV",LATINO : STARZ WEST
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56526
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : STUDIO UNIVERSAL" tvg-logo="http://hostengine.live:25461/images/abf950e45349b4be426eda24bcd428dc.png" group-title="LATINO TV",LATINO : STUDIO UNIVERSAL
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56527
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : SUR PERU" tvg-logo="http://hostengine.live:25461/images/90932f52f3748852c3643aaeba312aa0.png" group-title="LATINO TV",LATINO : SUR PERU
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56528
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : SYFY" tvg-logo="http://hostengine.live:25461/images/c06d00eaae8da7a6097afe8d45392532.png" group-title="LATINO TV",LATINO : SYFY
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56529
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TBS" tvg-logo="http://hostengine.live:25461/images/3d025e8012242d7a3bce54d7a6bf0445.png" group-title="LATINO TV",LATINO : TBS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56530
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TCM" tvg-logo="http://hostengine.live:25461/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="LATINO TV",LATINO : TCM
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56531
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEAMAZONAS" tvg-logo="http://hostengine.live:25461/images/0a3f93ec99064958fe87809bb730743d.png" group-title="LATINO TV",LATINO : TELEAMAZONAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56532
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELECENTRO" tvg-logo="http://hostengine.live:25461/images/6d47570d59fe15b88d2a773c58823855.png" group-title="LATINO TV",LATINO : TELECENTRO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56533
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEFE" tvg-logo="http://hostengine.live:25461/images/84ec1d0145461924ce2a2e34b66e7a2a.png" group-title="LATINO TV",LATINO : TELEFE
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56534
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEMUNDO" tvg-logo="http://hostengine.live:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="LATINO TV",LATINO : TELEMUNDO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56535
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEMUNDO 2 (WKAQ) Puerto Rico" tvg-logo="" group-title="LATINO TV",LATINO : TELEMUNDO 2 (WKAQ) Puerto Rico
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/222136
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEMUNDO INTERNATIONAL" tvg-logo="http://hostengine.live:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="LATINO TV",LATINO : TELEMUNDO INTERNATIONAL
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56536
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEMUNDO PR" tvg-logo="" group-title="LATINO TV",LATINO : TELEMUNDO PR
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/193923
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEMUNDO WEST" tvg-logo="http://hostengine.live:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="LATINO TV",LATINO : TELEMUNDO WEST
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56537
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELENOVELAS" tvg-logo="http://hostengine.live:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="LATINO TV",LATINO : TELENOVELAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56538
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELEPACIFICO" tvg-logo="http://hostengine.live:25461/images/b4081883c8f73e292a9907a6cf04a067.png" group-title="LATINO TV",LATINO : TELEPACIFICO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56539
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELESISTEMA" tvg-logo="http://hostengine.live:25461/images/7848f591655b0383149adc71cfb2cd09.png" group-title="LATINO TV",LATINO : TELESISTEMA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56540
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELESUR" tvg-logo="http://hostengine.live:25461/images/a84b61a0ff5f84fe36abc4821c80c70c.png" group-title="LATINO TV",LATINO : TELESUR
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56541
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TELETICA 7" tvg-logo="http://hostengine.live:25461/images/e7331ef418e0d18e2ef9798835b02303.png" group-title="LATINO TV",LATINO : TELETICA 7
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56542
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TLC" tvg-logo="http://hostengine.live:25461/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="LATINO TV",LATINO : TLC
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56543
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TNT" tvg-logo="http://hostengine.live:25461/images/921b51e15cd8f016c05021b7de04d906.png" group-title="LATINO TV",LATINO : TNT
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56544
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TNT SERIES" tvg-logo="http://hostengine.live:25461/images/abea36ea9614a5c0f66b462be09b0872.png" group-title="LATINO TV",LATINO : TNT SERIES
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56545
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TOONCAST" tvg-logo="http://hostengine.live:25461/images/a4a3148d12157121b65a8052ed894b6e.png" group-title="LATINO TV",LATINO : TOONCAST
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56546
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TR3S" tvg-logo="http://hostengine.live:25461/images/0f11e98b2b3a1a6177e785abc68f9821.png" group-title="LATINO TV",LATINO : TR3S
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56547
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TRU TV" tvg-logo="http://hostengine.live:25461/images/fdbb17cf13c759253764469048ffb71c.png" group-title="LATINO TV",LATINO : TRU TV
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56548
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TUDN" tvg-logo="http://hostengine.live:25461/images/e8855edd3b11362f3f30ea29285b725b.png" group-title="LATINO TV",LATINO : TUDN
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56549
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TV CHILE" tvg-logo="http://hostengine.live:25461/images/50c837eec3bed1ae2d51ce94499aa98e.png" group-title="LATINO TV",LATINO : TV CHILE
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56550
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TV ONE" tvg-logo="http://hostengine.live:25461/images/ee226a4cbde9e152565ac0add28af6e7.png" group-title="LATINO TV",LATINO : TV ONE
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56551
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TVE" tvg-logo="http://hostengine.live:25461/images/448c7b77ac4ba6e9257d63c2d4da3f5a.png" group-title="LATINO TV",LATINO : TVE
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56552
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TVN" tvg-logo="http://hostengine.live:25461/images/abbc2e9871bd2d886bcb9e7dc74e890d.png" group-title="LATINO TV",LATINO : TVN
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56553
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : TYC SPORTS" tvg-logo="http://hostengine.live:25461/images/14d02b4100656b1e2ea8def0db701a24.png" group-title="LATINO TV",LATINO : TYC SPORTS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56554
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIMAS" tvg-logo="http://hostengine.live:25461/images/132a2f58814ad3529202979b2ea8db68.png" group-title="LATINO TV",LATINO : UNIMAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56555
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIMAS EAST" tvg-logo="http://hostengine.live:25461/images/132a2f58814ad3529202979b2ea8db68.png" group-title="LATINO TV",LATINO : UNIMAS EAST
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56556
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIMAS WEST" tvg-logo="http://hostengine.live:25461/images/132a2f58814ad3529202979b2ea8db68.png" group-title="LATINO TV",LATINO : UNIMAS WEST
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56557
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVERSAL" tvg-logo="http://hostengine.live:25461/images/a60c5cd6eb19ec270026475e63cc0e83.png" group-title="LATINO TV",LATINO : UNIVERSAL
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56558
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVERSO" tvg-logo="http://hostengine.live:25461/images/8827a16688a97f353b5b722ed0e1ac6f.png" group-title="LATINO TV",LATINO : UNIVERSO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56559
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION (KUVN) DALLAS" tvg-logo="http://hostengine.live:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="LATINO TV",LATINO : UNIVISION (KUVN) DALLAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56561
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION (WLTV) FORT LAUDERDALE" tvg-logo="http://hostengine.live:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="LATINO TV",LATINO : UNIVISION (WLTV) FORT LAUDERDALE
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56562
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION DEPORTES" tvg-logo="http://hostengine.live:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="LATINO TV",LATINO : UNIVISION DEPORTES
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56563
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION EAST" tvg-logo="http://hostengine.live:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="LATINO TV",LATINO : UNIVISION EAST
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56564
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION PR" tvg-logo="" group-title="LATINO TV",LATINO : UNIVISION PR
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/193924
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION TLNOVELAS" tvg-logo="http://hostengine.live:25461/images/d85c582950b9687ed6d094411f8410d3.png" group-title="LATINO TV",LATINO : UNIVISION TLNOVELAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56566
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : UNIVISION WEST" tvg-logo="http://hostengine.live:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="LATINO TV",LATINO : UNIVISION WEST
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56567
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : VEPLUS" tvg-logo="http://hostengine.live:25461/images/99abd78797d87bad3e76f2a6bd809c11.png" group-title="LATINO TV",LATINO : VEPLUS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56569
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : VH1" tvg-logo="http://hostengine.live:25461/images/dad8ee483cc9a336cde702e9aa0b0954.png" group-title="LATINO TV",LATINO : VH1
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56570
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : VH1 CLASSIC" tvg-logo="http://hostengine.live:25461/images/dad8ee483cc9a336cde702e9aa0b0954.png" group-title="LATINO TV",LATINO : VH1 CLASSIC
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56571
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : VIDEOROLA" tvg-logo="http://hostengine.live:25461/images/59ad198276760668521ab0b59e9f9e4e.png" group-title="LATINO TV",LATINO : VIDEOROLA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56572
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : VIENDOMOVIES" tvg-logo="http://hostengine.live:25461/images/45bf4f64448f46138bb4dcb0ef2e745a.png" group-title="LATINO TV",LATINO : VIENDOMOVIES
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56573
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : VME" tvg-logo="http://hostengine.live:25461/images/1dbdb7493634a2245d53a63ed7696d4e.png" group-title="LATINO TV",LATINO : VME
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56574
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : WAPA AMERICA" tvg-logo="http://hostengine.live:25461/images/e72e119298b18281a3202e23f5c7efba.png" group-title="LATINO TV",LATINO : WAPA AMERICA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56576
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : WE TV" tvg-logo="http://hostengine.live:25461/images/a7865c7374e05ed6c37d3c40546f8fcd.png" group-title="LATINO TV",LATINO : WE TV
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56578
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : WIN SPORTS" tvg-logo="http://n2086.securepoint.io:25461/images/bd715064b5c26e7b74c68be529055742.png" group-title="LATINO TV",LATINO : WIN SPORTS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56579
+#EXTINF:-1 tvg-id="" tvg-name="LATINO : ZOOMOO" tvg-logo="http://hostengine.live:25461/images/362798cee27c31421286122423c363c3.png" group-title="LATINO TV",LATINO : ZOOMOO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56580
+#EXTINF:-1 tvg-id="TelemundoKASA.us" tvg-name="LATINO: TELEMUNDO (KASA) SANTA FE NEW MEXICO" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KASA) SANTA FE NEW MEXICO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57415
+#EXTINF:-1 tvg-id="TelemundoKBLR.us" tvg-name="LATINO: TELEMUNDO (KBLR) PARADISE NEVADA" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KBLR) PARADISE NEVADA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57416
+#EXTINF:-1 tvg-id="TelemundoKCSO.us" tvg-name="LATINO: TELEMUNDO (KCSO) SACRAMENTO CALIFORNIA" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KCSO) SACRAMENTO CALIFORNIA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57417
+#EXTINF:-1 tvg-id="TelemundoKDEN.us" tvg-name="LATINO: TELEMUNDO (KDEN) LONGMONT COLORADO" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KDEN) LONGMONT COLORADO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57418
+#EXTINF:-1 tvg-id="TelemundoKFBILD2.us" tvg-name="LATINO: TELEMUNDO (KFBI) MEDFORD OREGON" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KFBI) MEDFORD OREGON
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57419
+#EXTINF:-1 tvg-id="TelemundoKFDY.us" tvg-name="LATINO: TELEMUNDO (KFDY) LINCOLN NEBRASKA" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KFDY) LINCOLN NEBRASKA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57420
+#EXTINF:-1 tvg-id="TelemundoKGLA.us" tvg-name="LATINO: TELEMUNDO (KGLA) HAMMOND LOUISIANA" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KGLA) HAMMOND LOUISIANA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57421
+#EXTINF:-1 tvg-id="TelemundoKHRR.us" tvg-name="LATINO: TELEMUNDO (KHRR) TUCSON ARIZONA" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KHRR) TUCSON ARIZONA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57422
+#EXTINF:-1 tvg-id="TelemunduoKIFIDT5.us" tvg-name="LATINO: TELEMUNDO (KIFI) EAST IDAHO" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KIFI) EAST IDAHO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/217626
+#EXTINF:-1 tvg-id="TelemundoKNSO.us" tvg-name="LATINO: TELEMUNDO (KNSO) MERCED CALIFORNIA" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KNSO) MERCED CALIFORNIA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57423
+#EXTINF:-1 tvg-id="TelemundoKSTS.us" tvg-name="LATINO: TELEMUNDO (KSTS) SAN JOSE CALIFORNIA" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KSTS) SAN JOSE CALIFORNIA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57424
+#EXTINF:-1 tvg-id="TelemundoKTAZ.us" tvg-name="LATINO: TELEMUNDO (KTAZ) PHOENIX ARIZONA" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KTAZ) PHOENIX ARIZONA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57425
+#EXTINF:-1 tvg-id="TelemundoKTLM.us" tvg-name="LATINO: TELEMUNDO (KTLM) RIO GRANDE CITY TEXAS" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KTLM) RIO GRANDE CITY TEXAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57426
+#EXTINF:-1 tvg-id="TelemundoKTMD.us" tvg-name="LATINO: TELEMUNDO (KTMD) GALVESTON TEXAS" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KTMD) GALVESTON TEXAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57427
+#EXTINF:-1 tvg-id="TelemundoKTMW.us" tvg-name="LATINO: TELEMUNDO (KTMW) SALT LAKE CITY UTAH" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KTMW) SALT LAKE CITY UTAH
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57428
+#EXTINF:-1 tvg-id="TelemundoKTUZ.us" tvg-name="LATINO: TELEMUNDO (KTUZ) SHAWNEE OKLAHOMA" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KTUZ) SHAWNEE OKLAHOMA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57429
+#EXTINF:-1 tvg-id="TelemundoKUTU.us" tvg-name="LATINO: TELEMUNDO (KUTU) TULSA OKLAHOMA" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KUTU) TULSA OKLAHOMA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57430
+#EXTINF:-1 tvg-id="TelemundoKVDA.us" tvg-name="LATINO: TELEMUNDO (KVDA) SAN ANTONIO TEXAS" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KVDA) SAN ANTONIO TEXAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57431
+#EXTINF:-1 tvg-id="TelemundoKVEA.us" tvg-name="LATINO: TELEMUNDO (KVEA) CORONA CALIFORNIA" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KVEA) CORONA CALIFORNIA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57432
+#EXTINF:-1 tvg-id="TelemundoKXTQ.us" tvg-name="LATINO: TELEMUNDO (KXTQ) LUBBOCK TEXAS" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KXTQ) LUBBOCK TEXAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57433
+#EXTINF:-1 tvg-id="TelemundoKXTX.us" tvg-name="LATINO: TELEMUNDO (KXTX) DALLAS TEXAS" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (KXTX) DALLAS TEXAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57434
+#EXTINF:-1 tvg-id="TelemundoWKTB.us" tvg-name="LATINO: TELEMUNDO (WKTB) NORCROSS GEORGIA" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WKTB) NORCROSS GEORGIA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57435
+#EXTINF:-1 tvg-id="TelemundoWNEU.us" tvg-name="LATINO: TELEMUNDO (WNEU) BOSTON" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WNEU) BOSTON
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/217627
+#EXTINF:-1 tvg-id="TelemundoWNEU.us" tvg-name="LATINO: TELEMUNDO (WNEU) MERRIMACK NEW HAMPSHIRE" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WNEU) MERRIMACK NEW HAMPSHIRE
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57436
+#EXTINF:-1 tvg-id="TelemundoWNJU.us" tvg-name="LATINO: TELEMUNDO (WNJU) 47 NEW YORK" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WNJU) 47 NEW YORK
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57437
+#EXTINF:-1 tvg-id="TelemundoWNJU.us" tvg-name="LATINO: TELEMUNDO (WNJU) LINDEN NEW JERSEY" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WNJU) LINDEN NEW JERSEY
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57438
+#EXTINF:-1 tvg-id="TelemundoWDMR.us" tvg-name="LATINO: TELEMUNDO (WRDM) HARTFORD CONNECTICUT" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WRDM) HARTFORD CONNECTICUT
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57439
+#EXTINF:-1 tvg-id="TelemundoWRMD.us" tvg-name="LATINO: TELEMUNDO (WRMD) TAMPA FLORIDA" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WRMD) TAMPA FLORIDA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57440
+#EXTINF:-1 tvg-id="TelemundoWSCV.us" tvg-name="LATINO: TELEMUNDO (WSCV) FORT LAUDERDALE FLORIDA" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WSCV) FORT LAUDERDALE FLORIDA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57441
+#EXTINF:-1 tvg-id="TelemundoWSNS.us" tvg-name="LATINO: TELEMUNDO (WSNS) CHICAGO ILLINOIS" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WSNS) CHICAGO ILLINOIS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57442
+#EXTINF:-1 tvg-id="TelemundoWTMO.us" tvg-name="LATINO: TELEMUNDO (WTMO) ORLANDO FLORIDA" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WTMO) ORLANDO FLORIDA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57443
+#EXTINF:-1 tvg-id="TelemundoWWDT.us" tvg-name="LATINO: TELEMUNDO (WWDT) NAPLES FLORIDA" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WWDT) NAPLES FLORIDA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57444
+#EXTINF:-1 tvg-id="TelemundoWWSI.us" tvg-name="LATINO: TELEMUNDO (WWSI) MOUNT LAUREL PENNSYLVANIA" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WWSI) MOUNT LAUREL PENNSYLVANIA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57445
+#EXTINF:-1 tvg-id="TelemundoWZDC.us" tvg-name="LATINO: TELEMUNDO (WZDC) WASHINGTON DC" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO (WZDC) WASHINGTON DC
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/57446
+#EXTINF:-1 tvg-id="TelemundoKTMD.us" tvg-name="LATINO: TELEMUNDO 47 (KTMD) HOUSTON TEXAS" tvg-logo="http://n2086.securepoint.io:25461/images/0aee5f4dd69f98059208b7c450b3a605.png" group-title="TELEMUNDO LOCALS",LATINO: TELEMUNDO 47 (KTMD) HOUSTON TEXAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/112303
+#EXTINF:-1 tvg-id="UniMasKFSF.us" tvg-name="LATINO: UNIMAS (KFSF) VALLEJO CALIFORNIA" tvg-logo="http://n2086.securepoint.io:25461/images/132a2f58814ad3529202979b2ea8db68.png" group-title="UNIMAS LOCALS",LATINO: UNIMAS (KFSF) VALLEJO CALIFORNIA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54751
+#EXTINF:-1 tvg-id="UniMasKFTH.us" tvg-name="LATINO: UNIMAS (KFTH) ALVIN TEXAS" tvg-logo="http://n2086.securepoint.io:25461/images/132a2f58814ad3529202979b2ea8db68.png" group-title="UNIMAS LOCALS",LATINO: UNIMAS (KFTH) ALVIN TEXAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54752
+#EXTINF:-1 tvg-id="UniMasKSTR.us" tvg-name="LATINO: UNIMAS (KSTR) IRVING TEXAS" tvg-logo="http://n2086.securepoint.io:25461/images/132a2f58814ad3529202979b2ea8db68.png" group-title="UNIMAS LOCALS",LATINO: UNIMAS (KSTR) IRVING TEXAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54753
+#EXTINF:-1 tvg-id="UniMasKTFO.us" tvg-name="LATINO: UNIMAS (KTFO) AUSTIN TEXAS" tvg-logo="http://n2086.securepoint.io:25461/images/132a2f58814ad3529202979b2ea8db68.png" group-title="UNIMAS LOCALS",LATINO: UNIMAS (KTFO) AUSTIN TEXAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54754
+#EXTINF:-1 tvg-id="UniMasWAMI.us" tvg-name="LATINO: UNIMAS (WAMI) HOLLYWOOD FLORIDA" tvg-logo="http://n2086.securepoint.io:25461/images/132a2f58814ad3529202979b2ea8db68.png" group-title="UNIMAS LOCALS",LATINO: UNIMAS (WAMI) HOLLYWOOD FLORIDA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54755
+#EXTINF:-1 tvg-id="UniMasWFPA.us" tvg-name="LATINO: UNIMAS (WFPA) PHILADELPHIA PENNSYLVANIA" tvg-logo="http://n2086.securepoint.io:25461/images/132a2f58814ad3529202979b2ea8db68.png" group-title="UNIMAS LOCALS",LATINO: UNIMAS (WFPA) PHILADELPHIA PENNSYLVANIA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54756
+#EXTINF:-1 tvg-id="UniMasWFUT.us" tvg-name="LATINO: UNIMAS (WFUT) NEWARK NEW JERSEY" tvg-logo="http://n2086.securepoint.io:25461/images/132a2f58814ad3529202979b2ea8db68.png" group-title="UNIMAS LOCALS",LATINO: UNIMAS (WFUT) NEWARK NEW JERSEY
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54757
+#EXTINF:-1 tvg-id="UnivisionKAKW.us" tvg-name="LATINO: UNIVISION (KAKW) KILLEEN TEXAS" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KAKW) KILLEEN TEXAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54758
+#EXTINF:-1 tvg-id="UnivisionKDTV.us" tvg-name="LATINO: UNIVISION (KDTV) SAN FRANCISCO CALIFORNIA" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KDTV) SAN FRANCISCO CALIFORNIA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54759
+#EXTINF:-1 tvg-id="UnivisionKFTV.us" tvg-name="LATINO: UNIVISION (KFTV) HANFORD CALIFORNIA" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KFTV) HANFORD CALIFORNIA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54760
+#EXTINF:-1 tvg-id="UnivisionKMEX.us" tvg-name="LATINO: UNIVISION (KMEX) LOS ANGELES CALIFORNIA" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KMEX) LOS ANGELES CALIFORNIA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54761
+#EXTINF:-1 tvg-id="UnivisionKTVW.us" tvg-name="LATINO: UNIVISION (KTVW) FLAGSTAFF AZ" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KTVW) FLAGSTAFF AZ
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54762
+#EXTINF:-1 tvg-id="UnivisionKUVE.us" tvg-name="LATINO: UNIVISION (KUVE) GREEN VALLEY AZ" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KUVE) GREEN VALLEY AZ
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54763
+#EXTINF:-1 tvg-id="UnivisionKUVN.us" tvg-name="LATINO: UNIVISION (KUVN) GARLAND TEXAS" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KUVN) GARLAND TEXAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54764
+#EXTINF:-1 tvg-id="UnivisionKUVS.us" tvg-name="LATINO: UNIVISION (KUVS) MODESTO CALIFORNIA" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KUVS) MODESTO CALIFORNIA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54765
+#EXTINF:-1 tvg-id="UnivisionKWEX.us" tvg-name="LATINO: UNIVISION (KWEX) SAN ANTONIO TX" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KWEX) SAN ANTONIO TX
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54766
+#EXTINF:-1 tvg-id="UnivisionKXLN.us" tvg-name="LATINO: UNIVISION (KXLN) ROSENBERG TEXAS" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (KXLN) ROSENBERG TEXAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54767
+#EXTINF:-1 tvg-id="UnivisionWGBO.us" tvg-name="LATINO: UNIVISION (WGBO) CHICAGO IL" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (WGBO) CHICAGO IL
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54768
+#EXTINF:-1 tvg-id="UnivisionWLTV.us" tvg-name="LATINO: UNIVISION (WLTV) MIAMI FLORIDA" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (WLTV) MIAMI FLORIDA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54769
+#EXTINF:-1 tvg-id="UnivisionWQHS.us" tvg-name="LATINO: UNIVISION (WQHS) CLEVELAND OHIO" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (WQHS) CLEVELAND OHIO
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54770
+#EXTINF:-1 tvg-id="UnivisionWUVG.us" tvg-name="LATINO: UNIVISION (WUVG) ATHENS GEORGIA" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (WUVG) ATHENS GEORGIA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54771
+#EXTINF:-1 tvg-id="UnivisionWUVG.us" tvg-name="LATINO: UNIVISION (WUVG) ATLANTA" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (WUVG) ATLANTA
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54772
+#EXTINF:-1 tvg-id="UnivisionWXTV.us" tvg-name="LATINO: UNIVISION (WXTV) PATERSON NEW JERSEY" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION (WXTV) PATERSON NEW JERSEY
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54773
+#EXTINF:-1 tvg-id="UnivisionKXLN.us" tvg-name="LATINO: UNIVISION 45 (KXLN) HOUSTON TEXAS" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION 45 (KXLN) HOUSTON TEXAS
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/112304
