@@ -1495,3 +1495,684 @@ http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54772
 http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54773
 #EXTINF:-1 tvg-id="UnivisionKXLN.us" tvg-name="LATINO: UNIVISION 45 (KXLN) HOUSTON TEXAS" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION 45 (KXLN) HOUSTON TEXAS
 http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/112304
+#EXTINF:-1, privatvt1.noip.team
+http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/112304
+#EXTINF:-1,ARG: A&E
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417099
+#EXTINF:-1,ARG: A24
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417098
+#EXTINF:-1,ARG: AMC
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417097
+#EXTINF:-1,ARG: America TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417096
+#EXTINF:-1,ARG: Argentinisima
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417095
+#EXTINF:-1,ARG: Atreseries
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417094
+#EXTINF:-1,ARG: AXN
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417093
+#EXTINF:-1,ARG: Baby TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417092
+#EXTINF:-1,ARG: Bloomberg
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417091
+#EXTINF:-1,ARG: Boomerang
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417090
+#EXTINF:-1,ARG: C5N
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417089
+#EXTINF:-1,ARG: Canal 2 Jujuy
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417088
+#EXTINF:-1,ARG: Canal 3 Pinamar
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417087
+#EXTINF:-1,ARG: Canal 4 Jujuy
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417086
+#EXTINF:-1,ARG: Canal 6 Noticias
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417085
+#EXTINF:-1,ARG: Canal 9 Televida
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417084
+#EXTINF:-1,ARG: Canal 10 Córdoba
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417083
+#EXTINF:-1,ARG: Canal 10 Mar del Plata
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417082
+#EXTINF:-1,ARG: Canal 10 Rio Negro
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417081
+#EXTINF:-1,ARG: Canal 11 La Rioja
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417080
+#EXTINF:-1,ARG: Canal 12 Puerto Madryn
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417079
+#EXTINF:-1,ARG: Canal 13 La Rioja
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417078
+#EXTINF:-1,ARG: Canal 26
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417077
+#EXTINF:-1,ARG: Canal de la Ciudad
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417076
+#EXTINF:-1,ARG: canal orbe 21
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417075
+#EXTINF:-1,ARG: Canal Provincial
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417074
+#EXTINF:-1,ARG: Canal TDC
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417073
+#EXTINF:-1,ARG: Cartoon Network
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417072
+#EXTINF:-1,ARG: Chaco TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417071
+#EXTINF:-1,ARG: Chacra TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417070
+#EXTINF:-1,ARG: Cinco TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417069
+#EXTINF:-1,ARG: Cine.ar
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417068
+#EXTINF:-1,ARG: Cinecanal
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417067
+#EXTINF:-1,ARG: Cinemax
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417066
+#EXTINF:-1,ARG: Ciudad Magazine
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417065
+#EXTINF:-1,ARG: Ciudad TV Chaco
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417064
+#EXTINF:-1,ARG: Comedy Central
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417063
+#EXTINF:-1,ARG: Cronica TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417062
+#EXTINF:-1,ARG: DeporTV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417061
+#EXTINF:-1,ARG: Diputados TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417060
+#EXTINF:-1,ARG: DirecTV Sports
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417059
+#EXTINF:-1,ARG: DirecTV Sports 2
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417058
+#EXTINF:-1,ARG: DirecTV Sports+
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417057
+#EXTINF:-1,ARG: Discovery H&H
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417056
+#EXTINF:-1,ARG: Discovery Theater
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417055
+#EXTINF:-1,ARG: Disney Channel
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417054
+#EXTINF:-1,ARG: Disney Junior
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417053
+#EXTINF:-1,ARG: Disney XD
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417052
+#EXTINF:-1,ARG: E!
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417051
+#EXTINF:-1,ARG: El Gourmet
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417050
+#EXTINF:-1,ARG: El Nueve
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417049
+#EXTINF:-1,ARG: El Trece
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417048
+#EXTINF:-1,ARG: Eltres
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417047
+#EXTINF:-1,ARG: Encuentro
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417046
+#EXTINF:-1,ARG: ESPN
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417045
+#EXTINF:-1,ARG: ESPN 2
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417044
+#EXTINF:-1,ARG: ESPN 3
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417043
+#EXTINF:-1,ARG: ESPN 4
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417042
+#EXTINF:-1,ARG: ESPN Extra
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417041
+#EXTINF:-1,ARG: Fenix TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417040
+#EXTINF:-1,ARG: Film & Arts
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417039
+#EXTINF:-1,ARG: FOX SPORTS
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417038
+#EXTINF:-1,ARG: FOX SPORTS 2
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417037
+#EXTINF:-1,ARG: FOX SPORTS 3
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417036
+#EXTINF:-1,ARG: FX
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417035
+#EXTINF:-1,ARG: FXM
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417034
+#EXTINF:-1,ARG: Garage TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417033
+#EXTINF:-1,ARG: Gen Reprise
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417032
+#EXTINF:-1,ARG: Glitz
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417031
+#EXTINF:-1,ARG: HBO Mundi
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417030
+#EXTINF:-1,ARG: HBO Pop
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417029
+#EXTINF:-1,ARG: HBO Xtreme
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417028
+#EXTINF:-1,ARG: HBO+
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417027
+#EXTINF:-1,ARG: History
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417026
+#EXTINF:-1,ARG: Hola TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417025
+#EXTINF:-1,ARG: I Sat
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417024
+#EXTINF:-1,ARG: La Voz de Tucuman
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417023
+#EXTINF:-1,ARG: Litus
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417022
+#EXTINF:-1,ARG: LN+
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417021
+#EXTINF:-1,ARG: Morbido TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417020
+#EXTINF:-1,ARG: Multivision
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417019
+#EXTINF:-1,ARG: NAT GEO Kids
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417018
+#EXTINF:-1,ARG: NAT GEO Wild
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417017
+#EXTINF:-1,ARG: Net TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417016
+#EXTINF:-1,ARG: nickelodeon
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417015
+#EXTINF:-1,ARG: Pakapaka
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417014
+#EXTINF:-1,ARG: Quiero Musica en mi Idioma
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417013
+#EXTINF:-1,ARG: Smithsonian Channel
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417012
+#EXTINF:-1,ARG: Star Action
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417011
+#EXTINF:-1,ARG: Star Comedy
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417010
+#EXTINF:-1,ARG: Star Hits
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417009
+#EXTINF:-1,ARG: SYFY
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417008
+#EXTINF:-1,ARG: TCM
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417007
+#EXTINF:-1,ARG: Telefe
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417006
+#EXTINF:-1,ARG: Telefe Rosario
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417005
+#EXTINF:-1,ARG: TeleJunin
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417004
+#EXTINF:-1,ARG: Telemax
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417003
+#EXTINF:-1,ARG: Telenord Corrientes
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417002
+#EXTINF:-1,ARG: Telesol (TLS)
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417001
+#EXTINF:-1,ARG: Television Publica
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417000
+#EXTINF:-1,ARG: Tierramia TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416999
+#EXTINF:-1,ARG: TNT
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416998
+#EXTINF:-1,ARG: TNT Series
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416997
+#EXTINF:-1,ARG: TNT Sports
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416996
+#EXTINF:-1,ARG: Todo Noticias
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416995
+#EXTINF:-1,ARG: TV Mana Argentina
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416994
+#EXTINF:-1,ARG: TV Publica
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416993
+#EXTINF:-1,ARG: TVU Universidad Nacional de La Plata
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416992
+#EXTINF:-1,ARG: TyC Sports
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416991
+#EXTINF:-1,ARG: Universal TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416990
+#EXTINF:-1,ARG: Volver
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416989
+#EXTINF:-1,ARG: Wobi TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416988
+#EXTINF:-1,MX: ADN 40
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416757
+#EXTINF:-1,MX: Adrenalina Sports Network
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416756
+#EXTINF:-1,MX: AMC
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416755
+#EXTINF:-1,MX: Antena 3 Internacional
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416754
+#EXTINF:-1,MX: AXN
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416753
+#EXTINF:-1,MX: AyM Sports
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416752
+#EXTINF:-1,MX: Az Cinema
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416751
+#EXTINF:-1,MX: Az Clic
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416750
+#EXTINF:-1,MX: Az Corazon
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416749
+#EXTINF:-1,MX: Az Mundo
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416748
+#EXTINF:-1,MX: AZTECA 7
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416747
+#EXTINF:-1,MX: AZTECA Uno
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416746
+#EXTINF:-1,MX: Baby TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416745
+#EXTINF:-1,MX: Bandamax
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416744
+#EXTINF:-1,MX: BitMe
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416743
+#EXTINF:-1,MX: Bloomberg TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416742
+#EXTINF:-1,MX: Canal 4
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416741
+#EXTINF:-1,MX: Canal 5
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416740
+#EXTINF:-1,MX: Canal 6 Monterrey
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416739
+#EXTINF:-1,MX: Canal 6 Saltillo
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416738
+#EXTINF:-1,MX: Canal 8 Costa Rica
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416737
+#EXTINF:-1,MX: Canal 10 Cancun
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416736
+#EXTINF:-1,MX: Canal 26
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416735
+#EXTINF:-1,MX: Canal Internacional
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416734
+#EXTINF:-1,MX: Canal Mundo+
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416733
+#EXTINF:-1,MX: Capital 21
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416732
+#EXTINF:-1,MX: Cartoon Network
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416731
+#EXTINF:-1,MX: Cinecanal
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416730
+#EXTINF:-1,MX: Claro Cinema
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416729
+#EXTINF:-1,MX: Claro Sports
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416728
+#EXTINF:-1,MX: Comedy Central
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416727
+#EXTINF:-1,MX: Corazon del la Capital
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416726
+#EXTINF:-1,MX: De Pelicula
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416725
+#EXTINF:-1,MX: Discovery H&H
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416724
+#EXTINF:-1,MX: Discovery Kids
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416723
+#EXTINF:-1,MX: Discovery Science
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416722
+#EXTINF:-1,MX: Discovery Theater
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416721
+#EXTINF:-1,MX: Discovery TLC
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416720
+#EXTINF:-1,MX: Discovery Turbo
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416719
+#EXTINF:-1,MX: Discovery World
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416718
+#EXTINF:-1,MX: Disney Junior
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416717
+#EXTINF:-1,MX: Distrito Comedia
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416716
+#EXTINF:-1,MX: E!
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416715
+#EXTINF:-1,MX: ESPN
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416714
+#EXTINF:-1,MX: ESPN 3
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416713
+#EXTINF:-1,MX: ESPN Dos
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416712
+#EXTINF:-1,MX: ESPN Extra
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416711
+#EXTINF:-1,MX: Europa Europa
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416710
+#EXTINF:-1,MX: Excelsior TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416709
+#EXTINF:-1,MX: Film & Arts
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416708
+#EXTINF:-1,MX: Foro TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416707
+#EXTINF:-1,MX: FOX SPORTS
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416706
+#EXTINF:-1,MX: FOX SPORTS 2
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416705
+#EXTINF:-1,MX: FOX SPORTS 3
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416704
+#EXTINF:-1,MX: FX
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416703
+#EXTINF:-1,MX: Glitz
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416702
+#EXTINF:-1,MX: Golden Edge
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416701
+#EXTINF:-1,MX: Golden Plus
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416700
+#EXTINF:-1,MX: Golden Premier
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416699
+#EXTINF:-1,MX: Golf Channel
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416698
+#EXTINF:-1,MX: HGTV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416697
+#EXTINF:-1,MX: Hola TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416696
+#EXTINF:-1,MX: I Sat
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416695
+#EXTINF:-1,MX: ILCE Canal 15 Summa Saberes
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416694
+#EXTINF:-1,MX: Imagen TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416693
+#EXTINF:-1,MX: Ingenio TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416692
+#EXTINF:-1,MX: Investigation Discovery
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416691
+#EXTINF:-1,MX: Jalisco TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416690
+#EXTINF:-1,MX: Justicia TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416689
+#EXTINF:-1,MX: Las Estrellas México
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416688
+#EXTINF:-1,MX: Maria+Vision
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416687
+#EXTINF:-1,MX: Maria+Vision Medjugorje
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416686
+#EXTINF:-1,MX: Mexico Travel Channel
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416685
+#EXTINF:-1,MX: Milenio TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416684
+#EXTINF:-1,MX: Multimedios Laguna
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416683
+#EXTINF:-1,MX: NAT GEO
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416682
+#EXTINF:-1,MX: nickelodeon
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416681
+#EXTINF:-1,MX: NickMusic
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416680
+#EXTINF:-1,MX: Nmas
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416679
+#EXTINF:-1,MX: Nueve
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416678
+#EXTINF:-1,MX: Once Mexico
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416677
+#EXTINF:-1,MX: Paramount Network
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416676
+#EXTINF:-1,MX: RCG TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416675
+#EXTINF:-1,MX: RTQ Queretaro
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416674
+#EXTINF:-1,MX: SET Television Canal 26
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416673
+#EXTINF:-1,MX: Sistema Michoacano de TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416672
+#EXTINF:-1,MX: Sony Channel
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416671
+#EXTINF:-1,MX: Space
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416670
+#EXTINF:-1,MX: SYFY
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416669
+#EXTINF:-1,MX: TBS
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416668
+#EXTINF:-1,MX: TCM
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416667
+#EXTINF:-1,MX: TeenNick
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416666
+#EXTINF:-1,MX: TeleFormula
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416665
+#EXTINF:-1,MX: Telehit Musica
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416664
+#EXTINF:-1,MX: Telemax
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416663
+#EXTINF:-1,MX: Teleritmo
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416662
+#EXTINF:-1,MX: Televisa Networks
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416661
+#EXTINF:-1,MX: Tlaxcala TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416660
+#EXTINF:-1,MX: Tlnovelas
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416659
+#EXTINF:-1,MX: TNT Series
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416658
+#EXTINF:-1,MX: Tooncast
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416657
+#EXTINF:-1,MX: TUDN
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416656
+#EXTINF:-1,MX: TV Mas
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416655
+#EXTINF:-1,MX: TV Mexiquense
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416654
+#EXTINF:-1,MX: TV Nuevo Leon 28
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416653
+#EXTINF:-1,MX: TVC Deportes
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416652
+#EXTINF:-1,MX: Unicable
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416651
+#EXTINF:-1,MX: Warner TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416650
+#EXTINF:-1,LA: 3ABN Latino
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416649
+#EXTINF:-1,LA: A Estrenar
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416648
+#EXTINF:-1,LA: A&E
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416647
+#EXTINF:-1,LA: Albuquerque Santa Fe New Mexico KRQE
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416646
+#EXTINF:-1,LA: Aliento Vision
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416645
+#EXTINF:-1,LA: AMC
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416644
+#EXTINF:-1,LA: ANIMAL PLANET
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416643
+#EXTINF:-1,LA: AXN
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416642
+#EXTINF:-1,LA: Baby TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416641
+#EXTINF:-1,LA: Bloomberg TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416640
+#EXTINF:-1,LA: Cartoon Network
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416639
+#EXTINF:-1,LA: Cinema Dinamita
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416638
+#EXTINF:-1,LA: Cinemax
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416637
+#EXTINF:-1,LA: Cinemax Action
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416636
+#EXTINF:-1,LA: Comedy Central
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416635
+#EXTINF:-1,LA: Concert Channel
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416634
+#EXTINF:-1,LA: Contacts TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416633
+#EXTINF:-1,LA: Cuaraco TV Direct 13
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416632
+#EXTINF:-1,LA: Dios te ve Kids
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416631
+#EXTINF:-1,LA: Discovery H&H
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416630
+#EXTINF:-1,LA: Discovery Kids
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416629
+#EXTINF:-1,LA: Discovery Science
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416628
+#EXTINF:-1,LA: Discovery Theater
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416627
+#EXTINF:-1,LA: Discovery Turbo
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416626
+#EXTINF:-1,LA: Discovery World
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416625
+#EXTINF:-1,LA: Disney Channel
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416624
+#EXTINF:-1,LA: Disney Junior
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416623
+#EXTINF:-1,LA: ESPN
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416622
+#EXTINF:-1,LA: ESPN 2
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416621
+#EXTINF:-1,LA: ESPN 3
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416620
+#EXTINF:-1,LA: ESPN Deportes
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416619
+#EXTINF:-1,LA: Estrella TV East
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416618
+#EXTINF:-1,LA: FOX SPORTS
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416617
+#EXTINF:-1,LA: FX
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416616
+#EXTINF:-1,LA: Galavision
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416615
+#EXTINF:-1,LA: Glitz
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416614
+#EXTINF:-1,LA: HBO
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416613
+#EXTINF:-1,LA: HBO 2
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416612
+#EXTINF:-1,LA: HBO Family
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416611
+#EXTINF:-1,LA: HBO Mundi
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416610
+#EXTINF:-1,LA: HBO Signature
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416609
+#EXTINF:-1,LA: HBO Xtreme
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416608
+#EXTINF:-1,LA: HBO+
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416607
+#EXTINF:-1,LA: HGTV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416606
+#EXTINF:-1,LA: Hispan TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416605
+#EXTINF:-1,LA: History
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416604
+#EXTINF:-1,LA: History 2
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416603
+#EXTINF:-1,LA: HTV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416602
+#EXTINF:-1,LA: Investigation Discovery
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416601
+#EXTINF:-1,LA: levelUp
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416600
+#EXTINF:-1,LA: Lifetime
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416599
+#EXTINF:-1,LA: Mas Chic
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416598
+#EXTINF:-1,LA: Mega
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416597
+#EXTINF:-1,LA: Microvision
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416596
+#EXTINF:-1,LA: Mundo+
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416595
+#EXTINF:-1,LA: NAT GEO
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416594
+#EXTINF:-1,LA: NAT GEO Mundo
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416593
+#EXTINF:-1,LA: NBC Universo
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416592
+#EXTINF:-1,LA: Nick Junior
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416591
+#EXTINF:-1,LA: nickelodeon
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416590
+#EXTINF:-1,LA: Nos Pais
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416589
+#EXTINF:-1,LA: Paramount Network
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416588
+#EXTINF:-1,LA: Pasiones
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416587
+#EXTINF:-1,LA: Semillitas
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416586
+#EXTINF:-1,LA: Showtime Beyond
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416585
+#EXTINF:-1,LA: Space
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416584
+#EXTINF:-1,LA: Starz Cinema
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416583
+#EXTINF:-1,LA: Studio Universal
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416582
+#EXTINF:-1,LA: SYFY
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416581
+#EXTINF:-1,LA: Tastemade
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416580
+#EXTINF:-1,LA: TBS
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416579
+#EXTINF:-1,LA: TCM
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416578
+#EXTINF:-1,LA: TeenNick
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416577
+#EXTINF:-1,LA: Tele Red
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416576
+#EXTINF:-1,LA: Telemundo 60 San Antonio KVDA TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416575
+#EXTINF:-1,LA: Telemundo Atlantic City New Jersey WWSI TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416574
+#EXTINF:-1,LA: Telemundo Chicago Illinois WSNS TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416573
+#EXTINF:-1,LA: Telemundo Corona California KVEA TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416572
+#EXTINF:-1,LA: Telemundo Dallas Texas KXTX TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416571
+#EXTINF:-1,LA: Telemundo Denver Colorado KDEN TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416570
+#EXTINF:-1,LA: Telemundo Fort Myers Florida WWDT CD
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416569
+#EXTINF:-1,LA: Telemundo Houston Texas KTMD TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416568
+#EXTINF:-1,LA: Telemundo Internacional
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416567
+#EXTINF:-1,LA: Telemundo Merced California KNSO TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416566
+#EXTINF:-1,LA: Telemundo Merrimack New Hampshire WNEU TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416565
+#EXTINF:-1,LA: Telemundo Miami Florida WSCV TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416564
+#EXTINF:-1,LA: Telemundo Newark New Jersey WNJU TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416563
+#EXTINF:-1,LA: Telemundo Paradise Nevada KBLR TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416562
+#EXTINF:-1,LA: Telemundo Phoenix Arizona KTAZ TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416561
+#EXTINF:-1,LA: Telemundo San Jose California KSTS TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416560
+#EXTINF:-1,LA: Telemundo Tucson Arizona KHRR TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416559
+#EXTINF:-1,LA: TLC
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416558
+#EXTINF:-1,LA: TNT
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416557
+#EXTINF:-1,LA: TNT Series
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416556
+#EXTINF:-1,LA: TNT Sports
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416555
+#EXTINF:-1,LA: Tooncast
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416554
+#EXTINF:-1,LA: tru TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416553
+#EXTINF:-1,LA: TV 1000
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416552
+#EXTINF:-1,LA: Ultra Kids
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416551
+#EXTINF:-1,LA: Unimas
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416550
+#EXTINF:-1,LA: Unimas Houston
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416549
+#EXTINF:-1,LA: Unimas NY
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416548
+#EXTINF:-1,LA: Unimas West
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416547
+#EXTINF:-1,LA: Universal Cinema
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416546
+#EXTINF:-1,LA: Universal TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416545
+#EXTINF:-1,LA: Univision
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416544
+#EXTINF:-1,LA: Univision Atlanta
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416543
+#EXTINF:-1,LA: Univision Cleveland Ohio WQHS DT
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416542
+#EXTINF:-1,LA: Univision Fort Lauderdale
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416541
+#EXTINF:-1,LA: Univision Joliet Indiana WGBO TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416540
+#EXTINF:-1,LA: Univision Los Angeles
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416539
+#EXTINF:-1,LA: Univision Miami
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416538
+#EXTINF:-1,LA: Univision Phoenix
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416537
+#EXTINF:-1,LA: Univision Raleigh
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416536
+#EXTINF:-1,LA: Univision Tucson Arizona KUVE TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416535
+#EXTINF:-1,LA: Univision TV Novelas
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416534
+#EXTINF:-1,LA: Univision Vineland New Jersey WUVP TV
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416533
+#EXTINF:-1,LA: Univision West
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416532
+#EXTINF:-1,LA: Vallevision
+http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416531
+
