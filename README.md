@@ -1,5 +1,5 @@
 # mac2
-#EXTINF:-1, bariporto.xyz
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS bariporto.xyz
 http://bariporto.xyz:8080/play/live.php?mac=00:1A:79:B1:F1:D8&stream=42371&extension=ts
 #EXTINF:-1,LT: A&E
 http://bariporto.xyz:8080/play/live.php?mac=00:1A:79:B1:F1:D8&stream=42386&extension=ts
@@ -195,7 +195,7 @@ http://bariporto.xyz:8080/play/live.php?mac=00:1A:79:B1:F1:D8&stream=42292&exten
 http://bariporto.xyz:8080/play/live.php?mac=00:1A:79:B1:F1:D8&stream=42291&extension=ts
 #EXTINF:-1,LT: WARNER CHANNEL
 http://bariporto.xyz:8080/play/live.php?mac=00:1A:79:B1:F1:D8&stream=42290&extension=ts
-#EXTINF:-1,  alltvpremiere.online
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS alltvpremiere.online
 http://alltvpremiere.online:8000/saltv007/621378/9537
 #EXTINF:-1,⭐️CINE ESTELAR ALLTV - AVATAR 2: EL CAMINO DEL AGUA
 http://alltvpremiere.online:8000/saltv007/621378/9783
@@ -993,7 +993,7 @@ http://alltvpremiere.online:8000/saltv007/621378/3381
 http://alltvpremiere.online:8000/saltv007/621378/4882
 #EXTINF:-1,|LAT| VIDA TELEVISION [HD]
 http://alltvpremiere.online:8000/saltv007/621378/5415
-#EXTINF:-1, n2086.securepoint.io
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS n2086.securepoint.io
 http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56385
 #EXTINF:-1 tvg-id="" tvg-name="LATINO : A&E" tvg-logo="http://hostengine.live:25461/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="LATINO TV",LATINO : A&E
 http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/56380
@@ -1495,7 +1495,7 @@ http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54772
 http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/54773
 #EXTINF:-1 tvg-id="UnivisionKXLN.us" tvg-name="LATINO: UNIVISION 45 (KXLN) HOUSTON TEXAS" tvg-logo="http://n2086.securepoint.io:25461/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="UNIVISION LOCALS",LATINO: UNIVISION 45 (KXLN) HOUSTON TEXAS
 http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/112304
-#EXTINF:-1, privatvt1.noip.team
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS privatvt1.noip.team
 http://n2086.securepoint.io:25461/4XsDE2eGXgtG/qtachddMWr5G/112304
 #EXTINF:-1,ARG: A&E
 http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/417099
@@ -2175,7 +2175,7 @@ http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416533
 http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416532
 #EXTINF:-1,LA: Vallevision
 http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416531
-#EXTINF:-1,  193.107.202.221
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 193.107.202.221
 http://pizicetb.elprivateron.uno:8080/rofpyBHqtl/XhgkUfIeI6/416531
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="MX: 15TV SABINAS FHD" tvg-logo="" group-title="INT | MEXICO",MX: 15TV SABINAS FHD
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:FE:E4:0E&stream=1081890&extension=ts
@@ -3275,7 +3275,7 @@ http://193.107.202.62:2087/9TQ9Y4gKPyrM/2KzTTYfzfvxj/212942?play_token=x3rCFRYoq
 http://193.107.202.62:2087/9TQ9Y4gKPyrM/2KzTTYfzfvxj/212943?play_token=x3rCFRYoqp&token=SxRYWRUKFwgbBwdYVlIFUgwHBQUPUgEKBQVZWFNTCVBVBwkBUQAFBVsVGRsRFkcHWQtpD1xBDQoHAABZABkbFkNTQmcPBhcIGw8HAVdTF04aEl8LXUENCQAFClMEBAFTAxoSSA8GFwgbAgcAVUAZQF0eQgNKDVZUaVZdF1tWXEEKWEVUCk4XXVdoUVwPA1sGGlwUVxpPFVFFQhpbXEBVDxwUUlESEFRGXBUPVxcOWU4aBVkTVhdFQRQIGixqFxVBVU5EXQgRXF1XFQ8bFhEXThoPRTlKBkRMRFdZDFdHG1kSBhIURA9USmZUWlcMB1YWUQlYFRpZFQkUHhoMXVtQF19Eb0gPBhcIGwMNAFtASA==
 #EXTINF:-1 tvg-id="" tvg-name="MX: AZTECA CORAZON" tvg-logo="" group-title="Mexico",MX: AZTECA CORAZON
 http://193.107.202.62:2087/9TQ9Y4gKPyrM/2KzTTYfzfvxj/212944?play_token=x3rCFRYoqp&token=SxRYWRUKFwgbBwdYVlIFUgwHBQUPUgEKBQVZWFNTCVBVBwkBUQAFBVsVGRsRFkcHWQtpD1xBDQoHAABZABkbFkNTQmcPBhcIGw8HAVdTF04aEl8LXUENCQAFClMEBAFTAxoSSA8GFwgbAgcAVUAZQF0eQgNKDVZUaVZdF1tWXEEKWEVUCk4XXVdoUVwPA1sGGlwUVxpPFVFFQhpbXEBVDxwUUlESEFRGXBUPVxcOWU4aBVkTVhdFQRQIGixqFxVBVU5EXQgRXF1XFQ8bFhEXThoPRTlKBkRMRFdZDFdHG1kSBhIURA9USmZUWlcMB1YWUQlYFRpZFQkUHhoMXVtQF19Eb0gPBhcIGwMNAFtASA==
-#EXTINF:-1,  apk.androidtrex.com
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS  apk.androidtrex.com
 ttp://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:DD:2F:4B&stream=926569&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="ARG| AXN" tvg-logo="http://logo.protv.cc/picons/logos/axn.png" group-title="LAT| ARGENTINA",ARG| AXN
 http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:DD:2F:4B&stream=926576&extension=ts
@@ -4593,7 +4593,7 @@ http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:DD:2F:4B&stream=553052&
 http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:DD:2F:4B&stream=552941&extension=ts
 #EXTINF:-1 tvg-id="mx.WOBI TV" tvg-name="MXC| WOBI HD" tvg-logo="http://logo.protv.cc/picons/logos/laz.Wobi-HD.png" group-title="LAT| MEXICO",MXC| WOBI HD
 http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:DD:2F:4B&stream=553053&extension=ts
-#EXTINF:-1, x1.tvhub.cc
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS x1.tvhub.cc
 http://apk.androidtrex.com:80/play/live.php?mac=00:1A:79:DD:2F:4B&stream=553053&extension=ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="adn40.mx" tvg-name="MX: ADN 40 FHD" tvg-logo="https://logo.iptveditor.com/adn40.png" group-title="INT | MEXICO",MX: ADN 40 FHD
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:FE:E4:0E&stream=1081860&extension=ts
