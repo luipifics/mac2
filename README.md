@@ -1,5 +1,7 @@
 # mac2
-#EXTINF:-1 tvg-logo="https://mega.nz/file/KwRVQbzJ#u-SWliSK_k8Af_DN80_AF9sBKKYSPFEBwkG-VkPW4AE", LUIPIFICS bariporto.xyz
+#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmarketing4ecommerce.net%2Fwp-content%2Fuploads%2F2016%2F05%2FAndroid-1.jpg&imgrefurl=https%3A%2F%2Fmarketing4ecommerce.net%2Fvulnerabilidades-en-android-el-sistema-operativo-de-google%2F&tbnid=mTegDlsJRxQkJM&vet=12ahUKEwia_ZuSx4T9AhUHPd4AHYMNA0EQMygCegQIARBy..i&docid=gOXbIUtDfH5t-M&w=1000&h=875&q=android%20mecanico%20jpg&ved=2ahUKEwia_ZuSx4T9AhUHPd4AHYMNA0EQMygCegQIARBy", LUIPIFICS
+
+
 http://bariporto.xyz:8080/play/live.php?mac=00:1A:79:B1:F1:D8&stream=42371&extension=ts
 #EXTINF:-1,LT: A&E
 http://bariporto.xyz:8080/play/live.php?mac=00:1A:79:B1:F1:D8&stream=42386&extension=ts
