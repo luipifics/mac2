@@ -1,5 +1,5 @@
 # mac2
-#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS bariporto.xyz
+#EXTINF:-1 tvg-logo="https://mega.nz/file/KwRVQbzJ#u-SWliSK_k8Af_DN80_AF9sBKKYSPFEBwkG-VkPW4AE", LUIPIFICS bariporto.xyz
 http://bariporto.xyz:8080/play/live.php?mac=00:1A:79:B1:F1:D8&stream=42371&extension=ts
 #EXTINF:-1,LT: A&E
 http://bariporto.xyz:8080/play/live.php?mac=00:1A:79:B1:F1:D8&stream=42386&extension=ts
